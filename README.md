@@ -32,5 +32,5 @@ It does not take into consideration how well written a female character is, neit
 
 # Visualizations
 
-<img src ="images/WhatsApp Image 2021-08-09 at 22.48.07.jpeg'>
-<img src ="">
+<img src ="images/WhatsApp Image 2021-08-09 at 22.48.07.jpeg">
+<img src ="images/WhatsApp Image 2021-08-09 at 22.48.34.jpeg">
