@@ -29,3 +29,8 @@ and it might be a good idea to experiment with data from a couple of other place
 
 Finally, I would like to mention that the Bechdel test is not necessarily the best benchmark to measure female representation in movies.
 It does not take into consideration how well written a female character is, neither does it measure meaningful depth of character.
+
+# Visualizations
+
+<img src ="images/WhatsApp Image 2021-08-09 at 22.48.07.jpeg'>
+<img src ="">
